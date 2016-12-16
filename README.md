@@ -7,12 +7,12 @@ This repo provides a solid starting point for local WordPress development with D
 
 New build:
 * `git clone ...` 
-* `cd wordress-docker && mkdir site`
+* `cd wordpress-docker && mkdir site`
 * `docker-compose up -d` 
 
 Existing project:
 * `git clone ...`
-* `cd wordress-docker && mkdir site`
+* `cd wordpress-docker && mkdir site`
 * clone your WordPress `wp-content` directory into `site/`
 * Finally `docker-compose up -d`
 
