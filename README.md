@@ -14,7 +14,8 @@ Existing project:
 * `git clone ...`
 * `cd wordpress-docker && mkdir site`
 * clone your WordPress `wp-content` directory into `site/`
-* Finally `docker-compose up -d`
+* `docker-compose up -d`
+* Import your database
 
 **This build contains three images**
 
