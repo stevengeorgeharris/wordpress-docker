@@ -64,7 +64,7 @@ Standard Connection
 Host: 127.0.0.1
 Username: root
 Password: root
-Post: 8081
+Port: 8081
 ```
 
 **TODO::**
